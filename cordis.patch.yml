@@ -1,0 +1,5 @@
+# dsh-plugin-hub bundle 层：插入「插件集」面板宿主。
+- insert:
+    - id: dsh-plugin-hub
+      name: 'dsh-plugin-hub'
+      config: {}
